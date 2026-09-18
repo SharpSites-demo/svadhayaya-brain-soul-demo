@@ -1,0 +1,28 @@
+{
+  "version": "2026-09-18-trust-v1",
+  "row": 3,
+  "business": "Svadhayaya Brain & Soul care center",
+  "slug": "svadhayaya-brain-soul-demo",
+  "place_id": "ChIJ-3OETvz9DDkRca29b2pdkbo",
+  "phone": "917528920011",
+  "rating": 4.9,
+  "review_count": 447,
+  "checked_on": "2026-09-18",
+  "source": "https://www.google.com/maps/search/?api=1&query=Svadhayaya%20Brain%20%26%20Soul%20care%20center&query_place_id=ChIJ-3OETvz9DDkRca29b2pdkbo",
+  "reviews": [
+    {
+      "author": "Tushar Pant",
+      "stars": 5,
+      "date": "2026-06-08",
+      "quote": "He is very patient, approachable, and genuinely listens to his patients",
+      "excerpt": true
+    },
+    {
+      "author": "Aman Raj",
+      "stars": 5,
+      "date": "2026-07-02",
+      "quote": "The environment is calm and welcoming, making every session comfortable.",
+      "excerpt": true
+    }
+  ]
+}

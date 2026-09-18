@@ -1,0 +1,14 @@
+{
+  "version": "2026-09-18-trust-v1",
+  "business": "Svadhayaya Brain & Soul care center",
+  "source": "https://www.google.com/maps/search/?api=1&query=Svadhayaya%20Brain%20%26%20Soul%20care%20center&query_place_id=ChIJ-3OETvz9DDkRca29b2pdkbo",
+  "rating": 4.9,
+  "review_count": 447,
+  "checked_on": "2026-09-18",
+  "quoted_reviews": 2,
+  "quoted_words": 21,
+  "hero": "text-led; business photos have not been visually verified",
+  "original_sha256": "236254ed31e4ac8752e03a21139f47e5f0d582bb44f295a6d489a0f60788400c",
+  "updated_sha256": "ee93c246e339088e777dfe4226cb03b75837adbc1b05a7a1c85a91f43aaaaecd",
+  "contact_destinations_preserved": true
+}
